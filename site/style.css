@@ -1,0 +1,53 @@
+.container{
+    background-color:  #F8FAF0;
+    height: 1000px;
+    width: 970px;
+}
+h1{
+  text-align: center;
+}
+.page-header{
+  height: 75px;
+  width: 940px;
+  margin-right: 10px;
+  margin-top: 10px;
+}
+
+#mountain{
+  height: 125px;
+  width:940px;
+  margin-top: 15px;
+}
+.jumbotron{
+  height: 440px;
+  width: 940px;
+}
+
+.carousel-indicators {
+  bottom:-50px;
+}
+
+#mycarousel{
+  height:380px;
+  width: 920px;
+}
+
+.list-group-news{
+  display:inline-block;
+  vertical-align: top;
+  mapx;
+  width:800px;
+}
+
+
+h2{
+  margin-top: 15px;
+  margin-left: 50px;
+  width: 380px;
+  display:inline-block;
+}
+
+.container-bottom{
+  width: 940px;
+  height:200px;
+}
