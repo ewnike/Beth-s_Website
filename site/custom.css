@@ -49,6 +49,10 @@ ol.breadcrumb.text-center{
   background-color: #F8FAF0;
 }
 
+.breadcrumb a{
+  color: #666;
+}
+
 
 h2{
   margin-left: 50px;
