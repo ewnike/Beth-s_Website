@@ -1,5 +1,6 @@
 body{
-  background-color: green;
+  /*background-color: green;*/
+  background: linear-gradient(white,#32CD32);
 }
 .container{
     background-color:  #F8FAF0;
@@ -19,11 +20,14 @@ h1{
 #mountain{
   height: 200px;
   width:940px;
-  margin-top: 15px;
+  margin-top: 20px;
 }
 div.jumbotron{
   height: 380px;
   width: 940px;
+  padding-top: 20px;
+  padding-bottom: 0px;
+  background-color:  #F8FAF0;
 }
 
 .carousel-indicators {
@@ -41,7 +45,7 @@ div.jumbotron{
   margin-bottom: 15px;
   width:800px;
 }
-ol.breadcrumb.text.center{
+ol.breadcrumb.text-center{
   background-color: #F8FAF0;
 }
 
@@ -54,5 +58,6 @@ h2{
 
 .container-bottom{
   width: 940px;
-  height:200px;
+  height:250px;
+
 }
