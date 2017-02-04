@@ -32,6 +32,8 @@ div.jumbotron{
 
 .carousel-indicators {
   bottom:-50px;
+  color: white;
+
 }
 
 #mycarousel{
@@ -39,10 +41,11 @@ div.jumbotron{
   width: 940px;
 }
 
-.list-group-news{
+ul.list-group-news{
   display:inline-block;
   vertical-align: top;
   margin-bottom: 15px;
+  margin-left: 20px;
   width:800px;
 }
 ol.breadcrumb.text-center{
@@ -55,7 +58,7 @@ ol.breadcrumb.text-center{
 
 
 h2{
-  margin-left: 50px;
+  margin-left: 60px;
   width: 380px;
   display:inline-block;
 }
