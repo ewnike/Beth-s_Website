@@ -33,7 +33,6 @@ div.jumbotron{
 .carousel-indicators {
   bottom:-50px;
   color: white;
-
 }
 
 #mycarousel{
@@ -41,12 +40,29 @@ div.jumbotron{
   width: 940px;
 }
 
+#beth{
+  height:380px;
+  width:320px;
+  background-color: transparent;
+}
+
+#bethjohn{
+  height:380px;
+  width: 430px;
+  background-color: transparent;
+}
+
+#bethTrio {
+  height:380px;
+  width:440px;
+  background-color: transparent;
+}
 ul.list-group-news{
   display:inline-block;
   vertical-align: top;
   margin-bottom: 15px;
   margin-left: 20px;
-  
+  width:800px;
 }
 ol.breadcrumb.text-center{
   background-color: #F8FAF0;
@@ -66,5 +82,10 @@ h2{
 .container-bottom{
   width: 940px;
   height:250px;
+}
 
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+    width: 70%;
+    margin: auto;
 }
